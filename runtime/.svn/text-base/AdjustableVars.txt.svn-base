@@ -1,0 +1,64 @@
+
+
+/// These are the adjustable variable values.
+// If you change one and press 'r' in the program, it will be changed on-the-fly.
+
+
+TimeBetweenCurves     1.5     4.0
+CurveDuration         1.0     2.550
+CurveSharpness        0.01   0.0235
+TimeBetweenHills     1.5     3.0
+HillDuration         1.0     2.550
+HillSteepness        0.1   0.450
+HillChangeRate        0.01   0.01
+HillAffectsCarSpeed    10.0  30.0
+CarAcceleration      8.0   13.0
+CarBraking           8.0   13.0
+CarSteering          8.0   13.0
+CarTurnSlip	      	10.0  30.0
+SignLevelStart		29	29
+SpeedLevelStart		20	20
+TimeBetweenSigns   	2.0 	3.5
+SignDuration	      0.4    0.4
+SignAheadTime	      0.4    0.4
+TimeBeforeFirstSign   	5.0    5.0
+BlinkerPosX 	      0.00    0.00
+BlinkerPosY           0.00    0.00
+BlinkerPosX2 	      0.0    0.0
+BlinkerPosY2          0.00    0.00
+BlinkerPosX3 	      0.0    0.0
+BlinkerPosY3          0.0   0.0
+BlinkerPosX4 	      0.00    0.0
+BlinkerPosY4          0.0    0.0
+RelevantSignProbability 0.50   0.50
+LeadTime321Go          4.0    4.0
+EndScreenTimeSECONDS    5.0   5.0
+RoadGrayWidth 		12.0  12.0
+RoadYellowWidth 	 3.25 	3.25
+RoadRedWidth    	3.25 	3.25
+CarWidth    		3.0	 3.0
+SpeedYellowWidth 	 2.5	 2.5
+SpeedRedWidth    	2.5	 2.5   
+SpeedBumpStretch 	1.10  1.10        
+
+SignInclusiveLevelChange 	1.0 	1.0
+      
+SignTargetPerformanceRange	77.5	82.5
+SignLevelRange			-10	10
+      
+RoadTargetPerformanceRange	77.5	82.5
+RoadLevelRange			-20	30
+
+OverallTargetPerformanceRange	77.5	82.5
+OverallLevelRange		-6	10
+
+PowerTurnAndAccel		16.5	3.5
+
+RockingSideAndForward		0.10	0.10
+
+RedShake  			0.09 	0.09
+YellowShake 			0.09	0.09
+
+Behav0EEG1fMRI2			0	0
+fMRILocalizerTime		10.5	31.5
+fMRIExperimentTime		15.625	15.625

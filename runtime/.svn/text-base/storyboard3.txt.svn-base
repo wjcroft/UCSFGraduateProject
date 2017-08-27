@@ -1,0 +1,67 @@
+//	Variable	1	GamePlayMode														
+//	Variable	2	Number	of Overall	Levels	to	force	shift									
+//	Variable	3	Number	of Road	Levels	to	increment/decrement										
+//	Variable	4	Number	of Sign	Levels	to	increment/decrement										
+//	Variable	3	Time	of each	level	in	seconds.										
+//	Variable	6	Feedback Screen	Inserts.													
+//	Variable	195	Transition Screen Inserts and	Final	Screen	Inserts.											
+// 																	
+//	Explanation	of	GamePlay	Mode													
+//	0:00	Use	just	Road	accuracy	in	the	level	change/	stop	sign	accuracy	changing.				
+//	1:00	Road	accuracy	in	the	level	change/stop	sign	accuracy	"changing,"	and	show	"signs,"	but	don't	count	them.
+//	2:00	Use	just	Signs	in	the	level	change/	stop	road	levels	"changing,"	shows	signs	too.		
+//	3:00	Use	both	road	and	signs	in	the	level	change.	Both	level	changes	occur	simultaneously.		
+// 	"4:      Use both road and signs, but there is no level change."																
+//																	
+//	EEG TESTING MODES																
+//																	
+//	"Driving, no signs"		13														
+//	"View, no signs"			12													
+//	"Driving, respond to none"	15															
+//	"View, respond to none"		14														
+//	"Driving, respond to relevant"	10															
+//	"View, respond to relevant"	11															
+//	"Driving, respond to all"		6														
+//	"View, respond to all"		8														
+																	
+																	
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	FixationReminder										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	default										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	FixationReminder										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	default										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	FixationReminder										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	default										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	FixationReminder										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	default										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	FixationReminder										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	default										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholding	FixationReminder										
+gameplaynumber	0	0	0	0	60	DWD_UI_RoadThresholdingFinal	DUI_Transition_View_respond2none									
+																	
+																	
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	FixationReminder2										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	default										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	FixationReminder2										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	default										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	FixationReminder2										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	default										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	FixationReminder2										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholding	default										
+gameplaynumber	5	0	0	0	120	DWD_UI_SignThresholdingFinal	DUI_Transition_Driving_respond2relevant										
+																	
+																	
+gameplaynumber	10	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_respond2none										
+gameplaynumber	15	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_noSigns										
+gameplaynumber	13	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_View_respond2relevant_20										
+gameplaynumber	11	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_respond2relevant										
+gameplaynumber	10	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_noSigns										
+gameplaynumber	13	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_View_respond2relevant_40										
+gameplaynumber	11	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_respond2relevant										
+gameplaynumber	10	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_noSigns										
+gameplaynumber	13	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_View_respond2none_60										
+gameplaynumber	16	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_respond2none										
+gameplaynumber	15	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_View_respond2none										
+gameplaynumber	16	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_Driving_respond2none_80										
+gameplaynumber	15	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_View_respond2relevant										
+gameplaynumber	11	0	0	0	180	DWD_Behave_Feedback	DUI_Transition_View_respond2none										
+gameplaynumber	16	0	0	0	180	DWD_Behave_Feedback	DoneDone										

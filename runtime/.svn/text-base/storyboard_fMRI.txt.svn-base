@@ -1,0 +1,72 @@
+//	Variable	1	GamePlayMode														
+//	Variable	2	Number	of Overall	Levels	to	force	shift									
+//	Variable	3	Number	of Road	Levels	to	increment/decrement										
+//	Variable	4	Number	of Sign	Levels	to	increment/decrement										
+//	Variable	3	Time	of each	level	in	seconds.										
+//	Variable	6	Feedback Screen	Inserts.													
+//	Variable	195	Transition Screen Inserts and	Final	Screen	Inserts.											
+// 																	
+//	Explanation	of	GamePlay	Mode													
+//	0:00	Use	just	Road	accuracy	in	the	level	change/	stop	sign	accuracy	changing.				
+//	1:00	Road	accuracy	in	the	level	change/stop	sign	accuracy	"changing,"	and	show	"signs,"	but	don't	count	them.
+//	2:00	Use	just	Signs	in	the	level	change/	stop	road	levels	"changing,"	shows	signs	too.		
+//	3:00	Use	both	road	and	signs	in	the	level	change.	Both	level	changes	occur	simultaneously.		
+// 	"4:      Use both road and signs, but there is no level change."																
+//																	
+//	EEG TESTING MODES																
+//																	
+//	"Driving, no signs"		13									
+//	"Shoot, no road"		16					
+//	"View, no signs"		12														
+//	"Driving, respond to none"	15															
+//	"View, respond to none"		14														
+//	"Driving, respond to relevant"	10															
+//	"View, respond to relevant"	11															
+//	"Driving, respond to all"	6															
+//	"View, respond to all"		8														
+
+//Driving Localizer																	
+
+gameplaynumber	13	0	0	0	31.5	Fixation_Only	Passive_View
+gameplaynumber	12	0	0	0	31.5	Fixation_Only	Passive_View
+gameplaynumber	12	0	0	0	31.5	Fixation_Only	Passive_Drive
+gameplaynumber	13	0	0	0	31.5	Fixation_Only	Passive_Drive
+gameplaynumber	13	0	0	0	31.5	Fixation_Only	Passive_View
+gameplaynumber	12	0	0	0	31.5	Fixation_Only	Passive_Drive
+gameplaynumber	13	0	0	0	31.5	Fixation_Only	DUI_Transition_fMRI_Shoot_And_Drive
+
+gameplaynumber	10	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveDriving_noSigns
+gameplaynumber	13	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveView_noSigns
+gameplaynumber	12	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_No_Road
+
+gameplaynumber	16	0	0	0	327.6	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveDriving_noSigns
+
+gameplaynumber	13	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveView_noSigns
+gameplaynumber	12	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_And_Drive
+gameplaynumber	10	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_View_respond2relevant
+
+gameplaynumber	11	0	0	0	378	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveView_noSigns
+
+gameplaynumber	12	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_And_Drive
+gameplaynumber	10	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveDriving_noSigns
+gameplaynumber	13	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_No_Road
+
+gameplaynumber	16	0	0	0	327.6	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveView_noSigns
+
+gameplaynumber	12	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveDriving_noSigns
+gameplaynumber	13	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_And_Drive
+gameplaynumber	10	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_View_respond2relevant
+
+gameplaynumber	11	0	0	0	378	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_And_Drive
+
+gameplaynumber	10	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveView_noSigns
+gameplaynumber	12	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveDriving_noSigns
+gameplaynumber	13	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_No_Road
+
+gameplaynumber	16	0	0	0	327.6	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveDriving_noSigns
+
+gameplaynumber	13	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_Shoot_And_Drive
+gameplaynumber	10	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_PassiveView_noSigns
+gameplaynumber	12	0	0	0	151.2	DWD_Behave_Feedback	DUI_Transition_fMRI_View_respond2relevant
+
+gameplaynumber	11	0	0	0	378	DWD_Behave_Feedback	DoneDone

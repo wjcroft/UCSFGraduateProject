@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/660/trunk/BrainMobile-Behave/runtime
+END
+AdjustableVars_fMRIthresh.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/653/trunk/BrainMobile-Behave/runtime/AdjustableVars_fMRIthresh.txt
+END
+AdjustableVars.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/653/trunk/BrainMobile-Behave/runtime/AdjustableVars.txt
+END
+speedlevels.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/325/trunk/BrainMobile-Behave/runtime/speedlevels.txt
+END
+signlevels.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/658/trunk/BrainMobile-Behave/runtime/signlevels.txt
+END
+track10.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/650/trunk/BrainMobile-Behave/runtime/track10.csv
+END
+track11.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/650/trunk/BrainMobile-Behave/runtime/track11.csv
+END
+track12.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/650/trunk/BrainMobile-Behave/runtime/track12.csv
+END
+track13.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/650/trunk/BrainMobile-Behave/runtime/track13.csv
+END
+track14.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/650/trunk/BrainMobile-Behave/runtime/track14.csv
+END
+track15.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/650/trunk/BrainMobile-Behave/runtime/track15.csv
+END
+AdjustableVars_fMRI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/653/trunk/BrainMobile-Behave/runtime/AdjustableVars_fMRI.txt
+END
+storyboard.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/680/trunk/BrainMobile-Behave/runtime/storyboard.txt
+END
+storyboard1_EEG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/622/trunk/BrainMobile-Behave/runtime/storyboard1_EEG.txt
+END
+storyboard2_EEG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/622/trunk/BrainMobile-Behave/runtime/storyboard2_EEG.txt
+END
+storyboard3_EEG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/622/trunk/BrainMobile-Behave/runtime/storyboard3_EEG.txt
+END
+storyboard4_EEG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/622/trunk/BrainMobile-Behave/runtime/storyboard4_EEG.txt
+END
+porttalk.sys
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/325/trunk/BrainMobile-Behave/runtime/porttalk.sys
+END
+storyboard_fMRI.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/651/trunk/BrainMobile-Behave/runtime/storyboard_fMRI.txt
+END
+storyboard1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/472/trunk/BrainMobile-Behave/runtime/storyboard1.txt
+END
+storyboard2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/638/trunk/BrainMobile-Behave/runtime/storyboard2.txt
+END
+storyboard3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/496/trunk/BrainMobile-Behave/runtime/storyboard3.txt
+END
+storyboard4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/472/trunk/BrainMobile-Behave/runtime/storyboard4.txt
+END
+glut32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/325/trunk/BrainMobile-Behave/runtime/glut32.dll
+END
+storyboard5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/472/trunk/BrainMobile-Behave/runtime/storyboard5.txt
+END
+track01.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/582/trunk/BrainMobile-Behave/runtime/track01.csv
+END
+track02.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/660/trunk/BrainMobile-Behave/runtime/track02.csv
+END
+track03.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/655/trunk/BrainMobile-Behave/runtime/track03.csv
+END
+track04.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/655/trunk/BrainMobile-Behave/runtime/track04.csv
+END
+track05.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/470/trunk/BrainMobile-Behave/runtime/track05.csv
+END
+track06.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/383/trunk/BrainMobile-Behave/runtime/track06.csv
+END
+track07.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/383/trunk/BrainMobile-Behave/runtime/track07.csv
+END
+track08.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/383/trunk/BrainMobile-Behave/runtime/track08.csv
+END
+track09.csv
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/383/trunk/BrainMobile-Behave/runtime/track09.csv
+END
+AdjustableVars_EEG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/653/trunk/BrainMobile-Behave/runtime/AdjustableVars_EEG.txt
+END
+storyboard_CONVO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/498/trunk/BrainMobile-Behave/runtime/storyboard_CONVO.txt
+END
